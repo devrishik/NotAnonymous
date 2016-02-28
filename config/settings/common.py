@@ -44,7 +44,7 @@ THIRD_PARTY_APPS = (
 # Apps specific for this project go here.
 LOCAL_APPS = (
     'NotAnonymous.users',  # custom users app
-    # Your stuff: custom apps go here
+    'NotAnonymous.core',
 )
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
